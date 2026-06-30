@@ -1,0 +1,16 @@
+Part Number,Description,Quantity
+STM32F103C8T6,ARM Cortex-M3 MCU,2
+ATmega328P,8-bit AVR Microcontroller,1
+MAX485,RS-485 Transceiver,3
+CD4051,8-Channel Analog Multiplexer,2
+MCP3008,8-Channel 10-bit ADC,1
+TL071,Low-Noise JFET Op-Amp,4
+LM358,Dual Op-Amp,3
+NCP1117-3.3,3.3V 1A LDO Voltage Regulator,2
+MP2315,3.3V 2A Synchronous Buck Converter,1
+TPS54331,3.3A Step-Down Converter,1
+10K Resistor,10K Ohm 1/4W Carbon Film,50
+100nF Capacitor,100nF Ceramic Capacitor,25
+10uF Capacitor,10uF Electrolytic Capacitor,15
+Screw Terminal 2-pin,5mm Pitch Terminal Block,10
+Header Pin 40-pin,2.54mm Pin Header,5
